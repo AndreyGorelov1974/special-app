@@ -1,0 +1,4 @@
+*.log
+/.vs/DEMO_GIT/v17/.suo
+/.vs/DEMO_GIT/config/applicationhost.config
+/.vs
